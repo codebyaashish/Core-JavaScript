@@ -38,3 +38,12 @@ para1.style.backgroundColor="Pink"
 let h1=document.querySelector("h1");
 h1.innerText="Aashish Vidyarthi"
 
+
+//clssList.add()
+h1.classList.add("grey");
+
+
+let box=document.querySelector(".box")
+
+box.classList.add("yellow");
+
