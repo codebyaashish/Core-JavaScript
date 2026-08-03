@@ -1,0 +1,22 @@
+.red{
+    color: red;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+}
+
+.blue{
+    color: blue;
+}
+
+.d2{
+    height: 200px;
+    width: 90%;
+    
+    border: 5px solid black;
+    background-color: pink;
+}
+
